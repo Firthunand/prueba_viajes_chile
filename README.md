@@ -1,2 +1,2 @@
-# prueba_viejes_chile
-# https://github.com/Firthunand/prueba_viejes_chile
+# prueba_viajes_chile
+# https://github.com/Firthunand/prueba_viajes_chile
